@@ -1,6 +1,13 @@
 ## 
 # <div align="center">Brain Tumour Segmentation (BraTS) on the Basis of a <br/> U-Net architecture</div>
-# <div align="center">![animated_results](https://user-images.githubusercontent.com/89709351/187308267-0b8bdd49-5024-40db-8efe-43ab2a0bc842.gif)</div>
+
+# <div align="center"><img src="https://user-images.githubusercontent.com/89709351/188319190-c69c5ddd-9e0b-460c-bc60-a19b0c2daab8.png" width="900" height="450" /></div>
+
+## BraTS Dataset
+
+| <img src="https://user-images.githubusercontent.com/89709351/188319267-c7b2ade6-8c47-4845-9132-c1a010adef86.png" width="500" height="400" /> | <img src="https://user-images.githubusercontent.com/89709351/188319269-84f32fc3-f824-4daa-9a00-b902ab0bfc21.png" width="500" height="400" />|
+|---|---|
+| <div align="center"> A 3d MR scan (background removed). </div> | <div align="center"> The labeled tumor class. </div> |
 
 
 ## How to run our code
